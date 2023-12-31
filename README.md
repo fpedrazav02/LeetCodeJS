@@ -14,4 +14,4 @@ LeetCodeJs es un repositorio que tiene como objetivo recoger mis soluciones a lo
 
 ## Usage <a name = "usage"></a>
 
-Se puede utilizar libremnente. No tiene fines educativos, pero cada ejercicio cuenta con su solución y explicación.
+Se puede utilizar libremente. No tiene fines educativos, pero cada ejercicio cuenta con su solución y explicación.
